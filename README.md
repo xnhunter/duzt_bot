@@ -4,7 +4,7 @@
 Overview
 --------
 - **Version**: 1.0.0
-- **License**: [MIT](https://github.com/weelhelmer/BumpMapping/master/LICENSE)
+- **License**: [MIT](https://github.com/weelhelmer/duzt_bot/master/LICENSE)
 - **Link**: [UrkDUZT Bot](https://t.me/duzt_bot/)
 - **Status**: Alpha
 
@@ -20,4 +20,4 @@ Dependencies
 
 Screenshots
 -----------
-- [UkrDUZT Bot](https://github.com/bondarenko-me/duzt_bot/blob/master/duzt_bot_screenshot.PNG)
+![UkrDUZT Bot](https://github.com/bondarenko-me/duzt_bot/blob/master/duzt_bot_screenshot.png)
