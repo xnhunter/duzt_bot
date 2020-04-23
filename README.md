@@ -20,4 +20,4 @@ Dependencies
 
 Screenshots
 -----------
-![UkrDUZT Bot](https://github.com/bondarenko-me/duzt_bot/blob/master/duzt_bot_screenshot.png)
+![UkrDUZT Bot](https://github.com/bondarenko-me/duzt_bot/blob/master/duzt_bot_screenshot.PNG)
