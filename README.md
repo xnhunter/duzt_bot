@@ -14,7 +14,7 @@ Build
 -----------
 - In duzt_bot.py initiate variable bot_token with your own.
 - Run the file in a Python interpreter (don't forget about Telegram Python API).
-- Enjoy yourself.
+- Start the bot in Telegram and discover more.
 
 Dependencies
 ------------
