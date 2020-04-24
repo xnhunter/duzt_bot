@@ -37,7 +37,7 @@ def start(update, context):
 
 @send_typing_action
 def help(update, context):
-    update.message.reply_text("Больше нет необходимости искать  одного одногруппника в списках десятков групп. \
+    update.message.reply_text("Больше нет необходимости искать одного одногруппника в списках десятков групп. \
      \n\nПомогу тебе быстро найти твоих одногруппников и преподавателей со всего УкрДУЗТ😉")
 
     return CHOOSING
@@ -111,9 +111,9 @@ def main():
     dp.add_handler(InlineQueryHandler(inlinequery))
 
     conv_handler = ConversationHandler(
-            entry_points=[CommandHandler('feedback', feedback)],
+            entry_points = [CommandHandler('feedback', feedback)],
 
-            states={
+            states = {
                 TYPING_REPLY: [MessageHandler(Filters.text,
                                             feedback_thank)]
             },
@@ -125,7 +125,6 @@ def main():
     dp.add_error_handler(error)
 
     updater.start_polling()
-
     updater.idle()
 
 if __name__ == '__main__':
