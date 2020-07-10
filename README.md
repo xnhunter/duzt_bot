@@ -7,7 +7,7 @@ Overview
 --------
 - **Version**: 0.8.5
 - **License**: [MIT](https://github.com/bondarenko-me/duzt_bot/master/LICENSE)
-- **Link**: [UrkDUZT Bot](https://t.me/duztbot/)
+- **Link**: [UkrDUZT Bot](https://t.me/duztbot/)
 - **Status**: Beta
 
 Build
