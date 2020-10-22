@@ -16,7 +16,7 @@ Build
 - Run the file in a Python interpreter (don't forget about Telegram Python API).
 - Start the bot in Telegram and discover more.
 
-Dependencies
+Dependency
 ------------
 - [**Telegram Python API**](https://github.com/python-telegram-bot/python-telegram-bot/)
 
