@@ -12,7 +12,7 @@ Overview
 
 Build
 -----------
-- In duzt_bot.py initiate variable bot_token with your own.
+- Initiate variable bot_token with your own in duzt_bot.py.
 - Run the file in a Python interpreter (don't forget about Telegram Python API).
 - Start the bot in Telegram and discover more.
 
