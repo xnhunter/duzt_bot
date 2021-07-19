@@ -12,7 +12,7 @@ Overview
 
 Build
 -----------
-- Create student_teacher_list.txt and fill it in, template: [Name] [Last Name] [Link]
+- Create student_teacher_list.txt and fill it in, template: [Name] [Last Name] [Profile Link]
 - Initiate bot_token variable with your own in duzt_bot.py;
 - Run the script in a Python interpreter;
 - Start the bot in Telegram.
