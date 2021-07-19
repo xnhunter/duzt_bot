@@ -1,0 +1,9 @@
+{
+  "start": "Hi, sometimes you have to get in touch with a teacher quickly to warn him/her, you’re can't attend the University or to find out something from a student in another group. Write @duztbot + the surname of the student or teacher. For details send me /help or /feeedback to leave a review.",
+  "help": "There is no longer a need to search for a single groupmate in the channels of dozens of groups. I'll help you to quickly find your groupmates and faculty from whole UkrDUZT",
+  "language": "English language is chosen.",
+  "language_choose": "Please, choose your language.",
+  "feedback": "How do you like my avatar? Write down anything you like or don’t like about my work., ",
+  "feedback_thanks": "Thank you for your feedback. Feedbacks help us write more functionality.",
+  "version": "Bot version: "
+}
