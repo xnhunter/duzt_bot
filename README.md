@@ -8,7 +8,7 @@ Overview
 --------
 - **Name**: UkrDUZT Bot
 - **Version**: 1.0.0
-- **Release**: Alpha
+- **Status**: Alpha
 
 Build
 -----------
